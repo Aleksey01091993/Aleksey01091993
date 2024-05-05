@@ -4,7 +4,7 @@
 #### Telegram: @AShvedov1993
 #### phone: 8 (968)-667-66-88 (есть whatsapp)
 #### mail: AShvedov1993@yandex.ru
-![IMG_E3985.jpg](IMG_E3985.jpg)
+![JAVA-Technology.jpg](JAVA-Technology.jpg)
 #### Здравствуйте! Меня зовут Алексей, я разработчик, специализирующийся на Java. Я хорошо разбираюсь в Apache Maven, Spring Framework, SQL, Git, PostgreSQL, REST, Java Core, API, Docker, Hibernate, JUnit и других смежных областях.
 
 #### В настоящее время я активно изучаю новые библиотеки, такие как SpringWeb, SpringSecurity, REACT. Также я совершенствую свои знания английского языка, читаю литературу по Java и смотрю образовательные видео на YouTube. Особенно мне понравились каналы Евгения Сулеманова и Андрея Барисова.
